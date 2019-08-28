@@ -4,5 +4,4 @@ When contributing non-trivial changes to this repository, please first discuss t
 
 ## Translations
 
-TBD...
-
+Feel free to translate the tutorial in your language. To start off, create an issue interest in being a translator and you can fork the repository and start translating. Translators have the responsibility of keeping the translated content up to date with the master branch. Translated work has to go through the Pull Request and review process before it can be merged into the repository.
